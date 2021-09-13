@@ -1,2 +1,2 @@
 # realtime-detection
-Yolo object detection implementation
+Dealing with YOLOv4 to detect objects in videos, with python.
